@@ -1,0 +1,131 @@
+body {
+
+
+background-image:url(fondalain.jpg);
+}
+.bcom{display: flex;
+    flex-direction: column;}
+
+.form{
+	
+	
+	width:30%;
+   	margin:auto;
+	height: 200px;
+	padding-top: 30px;
+	text-align: center;
+	background-color: #DEB887;
+	border-style:solid;
+	border-color:black;
+	border-radius:30px;
+}
+
+  
+header{
+
+	width:60%;
+    	margin:auto;
+	height: 80px;
+	padding-top: 10px;
+	text-align: center;
+	background-color: #C0C0C0;
+	margin-top:100px;
+	border-style:solid;
+}
+.com{
+	background-color: Thistle;
+	width:60%;
+        margin:auto;
+	border-style:solid;
+	border-color:black;
+}
+.h21{
+text-align:center;
+}
+
+h3, h1, div
+{
+    text-align:center;
+}
+h1 {
+	font-size: 70px;
+}
+
+h2{
+width:40%;
+    background-color:#DEB887;
+    color:black;
+    font-size:20px;
+    margin:auto;
+    padding-bottom:25px;
+    padding-top:25px;
+	font-size:35px;
+	border:3px solid black;
+border-radius:30px;
+}
+
+h3
+{
+    width:90%;
+    background-color:#DEB887;
+    color:black;
+    font-size:20px;
+    margin:25px 25px 25px 53px;
+    padding-bottom:25px;
+    padding-top:25px;
+	font-size:35px;
+	border:3px solid black;
+border-radius:30px;
+}
+ .cont{
+
+border-radius:30px;
+width:center;
+    padding-bottom:25px;
+    padding-top:25px;
+	font-size:20px;
+	border:3px solid black;
+
+}
+#p1{
+
+	margin:auto;
+width:90%;
+border:3px solid black;
+border-radius:20px;
+     font-size:20px;
+}
+h4{
+	font-size:30px;
+}
+.news p
+{
+    background-color:#CCCCCC;
+    margin-top:0px;
+}
+.news
+{
+ 
+ 
+color:#0000FF; 
+	width:60%;
+    margin:auto;
+}
+.h31
+{
+   
+width:90%;
+    margin:30px;
+}
+
+a
+{
+background-color:#DEB887;
+ border:1px solid black;
+border-radius:10px; 
+ margin:10px; 
+padding:1px; 
+text-decoration: none;
+    color: blue;
+}
+

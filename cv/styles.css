@@ -1,0 +1,80 @@
+
+
+
+body{
+	  
+
+	background-image: url("img/moi2.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	display: flex;
+	flex-direction: column;
+
+}
+
+h1{
+	margin:auto;
+	width:30%;
+	text-align: center;
+	box-shadow: 10px 10px 8px black;
+	font-size: 80px ;
+
+}
+.h2{	/*utilisation d'une class pour mon nom*/
+	width:30%;
+	margin:auto;
+	padding:15px;
+	text-align: center;
+	font-size: 50px;
+	font-family:Arial Black;
+}
+h2{
+	font-size: 30px;
+	width:50%;
+	margin:auto;
+	padding:30px;
+}
+
+span{
+	width:60%;
+	margin:auto;
+}
+.imfl{
+	margin:auto;
+}
+a{
+	width:5%;
+	
+}
+ul{/*utilisation de text-shadow pour faire un effet d'ombre*/
+	text-shadow: 2px 2px 4px black;
+	opacity: 0.9;
+	width:60%;
+	margin:auto;
+	padding:15px;
+	background-color:#ADD8E6;	
+	border-style:solid;
+	border-color:black;
+	border-radius:30px;
+}
+@font-face { /* Définition d'une nouvelle police nommée CAC Champagne */
+    font-family: 'cac_champagneregular';
+    	src: 	url('cac_champagne-webfont.eot');
+    	src: 	url('cac_champagne-webfont.eot?#iefix') format('embedded-opentype'),
+        	url('cac_champagne-webfont.woff') format('woff'),
+         	url('cac_champagne-webfont.ttf') format('truetype'),
+        	url('cac_champagne-webfont.svg#cac_champagneregular') format('svg');
+}
+
+h4{
+	font-size:40px;
+	font-family: cac_champagneregular;
+	text-align: center;
+	color:#0000A0;
+
+
+}
+
+.compt{
+	color:blue;
+}
