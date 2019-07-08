@@ -10,10 +10,10 @@
 
 	<nav>
                     <ul>
-                        <li><a href="http://localhost/www/html/web/site_web/">accueil</a></li>
-                        <li><a href="http://localhost/www/html/web/site_web/cv/cv.html">Mon cv</a></li>
                         
-                        <li><a  href="http://localhost/www/html/web/site_web/siteweb_contact/contact.php">Contact</a></li>
+                        <li><a href="http://u100222708.hostingerapp.com/site_web/"> Retour au site !</a></li>
+                        <li><a href="http://u100222708.hostingerapp.com/site_perso_cv/indext.html">CV</a></li>
+                        <li><a  href="http://u100222708.hostingerapp.com/siteweb_contact/contact.php">Contact</a></li>
                     </ul>
 	</nav>
         <h1>Mon super blog !</h1>         	
